@@ -47,7 +47,6 @@ if (isset($_POST["submit"])) {
 }
 ?>
 
-
 <div class="container my-5">
     <div class="row">
         <div class="col-md-12">
